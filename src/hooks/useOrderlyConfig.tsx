@@ -120,7 +120,7 @@ export const useOrderlyConfig = () => {
             component: (
               <img
                 alt="Orderly logo"
-                src="/images/orderly-logo.svg"
+                src="https://www.uxuy.com/assets/svgs/logo-dark.svg"
                 style={{ width: 100, height: 40 }}
               />
             ),
